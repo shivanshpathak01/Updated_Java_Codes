@@ -1,0 +1,23 @@
+FOR SUBSET/SUBSEQUENCE PROBLEMS--->>>
+Take or not Take Approach always...
+
+For Valid Parenthesis Problems--->>>
+No. of left Parenthesis >= No. of Right Parenthesis
+
+For No. of Steps/ Stair case Problem
+Just function(n-1)+function(n-2)+....{Upto the number of possible steps given that can be taken at once}
+
+If we have two recursive calls then never add return statement before any of them Otherwise the second Recursive call will become unreachable
+
+For Perfect sum Problems, If there are issues with positive negative or zero numbers, then firstly generate all the cases or possibilities.
+
+For Perfect sum problem(Repetition of numbers is allowed any number of times), JUST DO NOT INCREAMENT THE INDEX NUMBER IF YOU ARE REPEATING...
+
+In questions related to the area of Rectangle, firstly take the square root of area and find the width then
+divide with it to get the length until we get the factor of the area otherwise keep decrementing by 1 then you will find the answer easily...
+
+Whenever we have to traverse in a 2D Matrix, /^ like this [i+j], And if downward arrow [i-j]
+
+whenever we have to count words or reverse words in an Array of strings we just see where the spaces comes between
+
+Whenever we talk about substrings, you have to aplly two loops and then take the substring
