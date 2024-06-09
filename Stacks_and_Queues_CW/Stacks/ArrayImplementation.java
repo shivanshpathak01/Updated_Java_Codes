@@ -9,7 +9,7 @@ public class ArrayImplementation {
         st.push(5);
         st.display();
         System.out.println(st.peek());
-        System.out.println();
+
     }
     public static class Stack{
         int arr[] = new int[100];
