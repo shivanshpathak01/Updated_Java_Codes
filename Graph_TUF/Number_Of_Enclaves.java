@@ -1,8 +1,11 @@
-package Practice;
+package Graph_TUF;
 
-public class Leetcode {
+
+public class Number_Of_Enclaves {
     public static void main(String[] args) {
 
     }
+
+
 
 }
